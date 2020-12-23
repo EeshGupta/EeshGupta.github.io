@@ -1,2 +1,10 @@
 theme: jekyll-theme-cayman
 remote_theme: daattali/beautiful-jekyll
+
+# --- Required options --- #
+
+# Name of website
+title: Eesh Gupta
+
+# Your name to show in the footer
+author: EeshGupta
