@@ -13,6 +13,7 @@ Topic: Quantum computations of molecular ground states; investigating Variationa
 ## Education
 
 `2019 - Present`
+
 __Rutgers University, New Brunswick__
 
 B.S. in Physics
