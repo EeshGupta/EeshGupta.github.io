@@ -3,6 +3,6 @@ theme: jekyll-theme-minimal
 title: Eesh Gupta
 description: Undergraduate Student in Physics at Rutgers University
 
-logo: profile.png
+logo: /images/profile.png
 show_downloads: "true"
 #google_analytics: [Your Google Analytics tracking ID]
