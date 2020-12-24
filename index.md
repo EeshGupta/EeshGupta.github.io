@@ -48,7 +48,7 @@ Aresty Summer Science poster session
 
 `Summer 2020`
 ### Talk, “Quantum Computing Electronic Structure” 			           	     
-	Delivered to:
+Delivered to 
 * Governor’s School of New Jersey                               
 * NJAAPT Workshop on Quantum Computing for High School Teachers  
 * The Remsing Group, Rutgers University
