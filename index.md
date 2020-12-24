@@ -45,7 +45,8 @@ Topic: Agricultural Education; front-end programming on “Agpocalypse 2050” p
 
 `July 2020`
 #### Poster Presentation, “Error Mitigating Quantum Computation of Molecular Ground States” 
-Aresty Summer Science poster session
+Aresty Summer Science Virtual Poster Session
+
 [View Poster](https://github.com/EeshGupta/VQE_Research/blob/master/Poster/eesh-gupta-poster.pdf)
 
 `Summer 2020`
@@ -55,4 +56,5 @@ Delivered to
 * NJAAPT Workshop on Quantum Computing for High School Teachers  
 * The Remsing Group, Rutgers University
 * Stephen Schnetzer’s Vector Like Quarks (VLQ) group
+
 [View Presentation Slides](https://github.com/EeshGupta/VQE_Research/tree/master/Presentations).
