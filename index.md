@@ -38,6 +38,7 @@ University of Nebaraska-Lincoln
 Supervisor: Ashu Guru, Ph.D.
 
 Topic: Agricultural Education; front-end programming on “Agpocalypse 2050” project; investigated criteria for effective, educational video games 
+[View Paper] (https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/Wrong%20Game%2C%20Wrong%20Message.pdf)
 
 
 ## Presentations
@@ -45,6 +46,7 @@ Topic: Agricultural Education; front-end programming on “Agpocalypse 2050” p
 `July 2020`
 #### Poster Presentation, “Error Mitigating Quantum Computation of Molecular Ground States” 
 Aresty Summer Science poster session
+[View Poster](https://github.com/EeshGupta/VQE_Research/blob/master/Poster/eesh-gupta-poster.pdf)
 
 `Summer 2020`
 #### Talk, “Quantum Computing Electronic Structure” 			           	     
@@ -53,3 +55,4 @@ Delivered to
 * NJAAPT Workshop on Quantum Computing for High School Teachers  
 * The Remsing Group, Rutgers University
 * Stephen Schnetzer’s Vector Like Quarks (VLQ) group
+[View Presentation Slides](https://github.com/EeshGupta/VQE_Research/tree/master/Presentations).
