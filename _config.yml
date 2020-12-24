@@ -7,4 +7,5 @@ cv_link: https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/CV
 email: eesh.gupta@rutgers.edu
 logo: /images/profile.png
 show_downloads: "false"
+plugins: - jekyll-sitemap
 #google_analytics: [Your Google Analytics tracking ID]
