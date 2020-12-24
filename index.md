@@ -38,7 +38,7 @@ University of Nebaraska-Lincoln
 Supervisor: Ashu Guru, Ph.D.
 
 Topic: Agricultural Education; front-end programming on “Agpocalypse 2050” project; investigated criteria for effective, educational video games 
-[View Paper] (https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/Wrong%20Game%2C%20Wrong%20Message.pdf)
+[View Paper] (https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/Wrong%20Game%2C%20Wrong%20Message.pdf).
 
 
 ## Presentations
