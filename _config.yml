@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 title: Eesh Gupta
 description: Undergraduate Student in Physics at Rutgers University
 
-
+cv_link: /documents/CV.pdf
 email: Email: eesh.gupta@rutgers.edu
 logo: /images/profile.png
 show_downloads: "false"
