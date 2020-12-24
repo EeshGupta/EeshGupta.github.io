@@ -16,9 +16,7 @@ Topic: Quantum computations of molecular ground states; investigating Variationa
 
 __Rutgers University, New Brunswick__
 
-B.S. in Physics
-
-B.A. in Computer Science
+B.S. in Physics, B.A. in Computer Science
 
 Activities and Societies: Society of Physics Students, Rutgers Concert Band
 
