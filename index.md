@@ -1,6 +1,6 @@
 ## Research Interests
 
-Quantum Computing & Many Body Physics: Variational algorithms, error mitigation, applications to chemistry
+My goal is to study how quantum computers can help solve the electronic structure problem. High accuracy chemical computations of molecular ground states will enable us to design better drugs, build better superconductors and reduce energy consumption of Born Haber processes. To this end, I hope to improve techniques that can mitigate errors on Noisy Intermediate-Scale (noisy near term) Quantum devices.  
 
 ## Currently
 
@@ -14,7 +14,7 @@ Topic: Quantum computations of molecular ground states; investigating Variationa
 
 `2019 - Present`
 
-__Rutgers University, New Brunswick__
+### Rutgers University, New Brunswick
 
 B.S. in Physics, B.A. in Computer Science
 
