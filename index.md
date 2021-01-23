@@ -15,7 +15,7 @@ Topic: Quantum computations of molecular ground states; investigating Variationa
 ## Fun Links
 - [(NEW) SPRING 2021 Blog](https://eeshsblogs.blogspot.com/)
 - [My tiny musical scores](https://musescore.com/user/10340756)
-- [Old Blog on everything quantum and relativistic!](http://quantatime.blogspot.com/) (This is really embarrasing! Remember I was a high school student:) )
+- [Old Blog on everything quantum and relativistic!](http://quantatime.blogspot.com/) (This is really embarrasing! Remember I was a high school student:) at that time.)
 
 
 ## Interactive CV
