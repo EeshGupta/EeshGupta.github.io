@@ -20,7 +20,7 @@ Topic: Quantum computations of molecular ground states; investigating Variationa
 
 ## Interactive CV
 
-## Research Experiences
+### Research Experiences
 
 `Summer 2020`
 #### Research Assistant
@@ -42,7 +42,7 @@ Topic: Agricultural Education; front-end programming on “Agpocalypse 2050” p
 [View Paper](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/Wrong%20Game%2C%20Wrong%20Message.pdf).
 
 
-## Presentations
+### Presentations
 
 `Summer 2020`
 #### Talk, “Quantum Computing Electronic Structure” 			           	     
