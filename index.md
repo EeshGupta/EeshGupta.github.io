@@ -2,6 +2,8 @@
 
 My goal is to study how quantum computers can help solve the electronic structure problem. High accuracy chemical computations of molecular ground states will enable us to design better drugs, build better superconductors and reduce energy consumption of Born Haber processes (among many other industrial applications). To this end, I hope to improve techniques that can mitigate errors on Noisy Intermediate-Scale (noisy near term) Quantum devices.  
 
+Aside from my current research in quantum noise, I am also interested in quantum simulation, superconducting qubits and topological qubits, all of which I hope to study really really soon!
+
 
 ## Currently
 
@@ -10,19 +12,15 @@ Supervisor: Stephen Schnetzer, Ph.D.
 
 Topic: Quantum computations of molecular ground states; investigating Variational Quantum Eigensolver (VQE) in computing ground state enrgy of the Hydrogen molecule; Comparing noise amplification techniques in Zero Noise Extrapolation (ZNE)
 
-
-## Education
-
-`2019 - Present`
-
-### Rutgers University, New Brunswick
-
-B.S. in Physics, B.A. in Computer Science
-
-Activities and Societies: Society of Physics Students, Rutgers Concert Band
+# Fun Links
+- [(NEW) SPRING 2021 Blog](https://eeshsblogs.blogspot.com/)
+- [My tiny musical scores](https://musescore.com/user/10340756)
+- [Old Blog on everything quantum and relativistic!](http://quantatime.blogspot.com/) 
 
 
-## Research Experience
+# Interactive CV
+
+## Research Experiences
 
 `Summer 2020`
 #### Research Assistant
@@ -31,6 +29,8 @@ Summer Science Program, Aresty Research Center, Rutgers University
 Supervisor: Stephen Schnetzer, Ph.D.
 
 Topic: Error mitigation; Analysis of Polynomial and Richardson Extrapolation in error mitigating computation of molecular ground state of the Hydrogen molecule.
+
+[View Poster](https://github.com/EeshGupta/VQE_Research/blob/master/Poster/eesh-gupta-poster.pdf)
 
 `Summer 2018`
 #### Research Programming Intern
@@ -43,12 +43,6 @@ Topic: Agricultural Education; front-end programming on “Agpocalypse 2050” p
 
 
 ## Presentations
-
-`July 2020`
-#### Poster Presentation, “Error Mitigating Quantum Computation of Molecular Ground States” 
-Aresty Summer Science Virtual Poster Session
-
-[View Poster](https://github.com/EeshGupta/VQE_Research/blob/master/Poster/eesh-gupta-poster.pdf)
 
 `Summer 2020`
 #### Talk, “Quantum Computing Electronic Structure” 			           	     
