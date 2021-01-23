@@ -12,13 +12,13 @@ Supervisor: Stephen Schnetzer, Ph.D.
 
 Topic: Quantum computations of molecular ground states; investigating Variational Quantum Eigensolver (VQE) in computing ground state enrgy of the Hydrogen molecule; Comparing noise amplification techniques in Zero Noise Extrapolation (ZNE)
 
-# Fun Links
+## Fun Links
 - [(NEW) SPRING 2021 Blog](https://eeshsblogs.blogspot.com/)
 - [My tiny musical scores](https://musescore.com/user/10340756)
 - [Old Blog on everything quantum and relativistic!](http://quantatime.blogspot.com/) 
 
 
-# Interactive CV
+## Interactive CV
 
 ## Research Experiences
 
