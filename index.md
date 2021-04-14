@@ -57,4 +57,4 @@ Delivered to
 ### Contact
 If I can help in any way, reach out to me @ eesh.gupta@rutgers.edu. 
 
-_Given my demanding role as a physics student, I try as much as possible to dedicate the time left over to research and my flute. So I aplogize in advance for delays in response. Thanks!_
+_Given my demanding role as a physics student, I try as much as possible to dedicate the time left over to research and my flute. So I apologize in advance for delays in response. Thanks!_
