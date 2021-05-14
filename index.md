@@ -12,12 +12,6 @@ Supervisor: Stephen Schnetzer, Ph.D.
 
 Topic: Quantum computations of molecular ground states; investigating Variational Quantum Eigensolver (VQE) in computing ground state enrgy of the Hydrogen molecule; Comparing noise amplification techniques in Zero Noise Extrapolation (ZNE)
 
-## Fun Links
-- [(NEW) SPRING 2021 Blog](https://eeshsblogs.blogspot.com/)
-- [My tiny musical scores](https://musescore.com/user/10340756)
-- [Old Blog on everything quantum and relativistic!](http://quantatime.blogspot.com/) (This is really embarrasing! Remember I was a high school student:) )
-
-
 ## Interactive CV
 
 ### Research Experiences
@@ -58,3 +52,8 @@ Delivered to
 If I can help in any way, reach out to me @ eesh.gupta@rutgers.edu 
 
 _Given my demanding role as a physics and computer science student, I try as much as possible to dedicate the time left over to research and my flute. So I apologize in advance for delays in response. Thanks!_
+
+## Fun Links
+- [(NEW) SPRING 2021 Blog](https://eeshsblogs.blogspot.com/)
+- [My tiny musical scores](https://musescore.com/user/10340756)
+- [Old Blog on everything quantum and relativistic!](http://quantatime.blogspot.com/) (This is really embarrasing! Remember I was a high school student:) )
