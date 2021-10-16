@@ -55,10 +55,10 @@ _Given my demanding role as a physics and computer science student, I try as muc
 
 ## AMAZING People I've come across 
 _as of October, 2021_
-* **Diane Frey**: _English Teacher_
-* Cal Newport 
-* Stephen Schnetzer 
-* Noah Palladino
+* **Diane Frey**: Invested in bettering herself as well as her students, Ms. Frey teaches AP English Language and Composition at Edison High School, NJ.
+* **Cal Newport**: His [ideas](https://www.calnewport.com/blog/) on student life and workplace productivity are transformational. Cal is a Distinguished Professor of Computer Science at Georgetown University. 
+* **Stephen Schnetzer**: Providing me with ample resources and opportunities to grow as a researcher, I am indebted to him. Professor Schnetzer is a Professor of Physics at Rutgers University.  
+* **Noah Palladino**: A physicist in training who taught me a lot about giving back, Noah is pursuing a PhD in experimental physics from MIT. 
 * Alexander Blais
 * Zlatko Minev
 * Sunil Somalwar
@@ -66,6 +66,7 @@ _as of October, 2021_
 * Carol Lin and Kevin Brown
 * Alexey Galda
 * David Vanderbilt
+* Eric Allender
 
 
 ## Fun Links
