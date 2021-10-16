@@ -53,7 +53,7 @@ If I can help in any way, reach out to me @ eesh.gupta@rutgers.edu
 
 _Given my demanding role as a physics and computer science student, I try as much as possible to dedicate the time left over to research and my flute. So I apologize in advance for delays in response. Thanks!_
 
-### AMAZING People I've come across 
+## AMAZING People I've come across 
 _as of October, 2021_
 * Diane Frey _English Teacher_
 * Cal Newport 
