@@ -55,7 +55,7 @@ _Given my demanding role as a physics and computer science student, I try as muc
 
 ## AMAZING People I've come across 
 _as of October, 2021_
-* Diane Frey _English Teacher_
+* **Diane Frey**: _English Teacher_
 * Cal Newport 
 * Stephen Schnetzer 
 * Noah Palladino
