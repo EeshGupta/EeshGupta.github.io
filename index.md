@@ -6,6 +6,7 @@ Quantum computers employ intrinsic properties of quantum mechanics to solve prob
 
 #### Undergraduate Research Assistant
 Supervisor: Srivatsan Chakram
+
 Developing numerical techniques to enact quantum gates (quantum optimal control) in multimode cavity QED systems
 
 
