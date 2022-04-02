@@ -11,7 +11,9 @@ Developing numerical techniques to enact quantum gates (quantum optimal control)
 
 
 ### Contact
-If I can help in any way, reach out to me @ eesh.gupta@rutgers.edu 
+If I can help in any way, reach out to me at eesh.gupta@rutgers.edu 
+
+### Resources
 
 
 
