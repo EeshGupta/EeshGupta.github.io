@@ -17,13 +17,13 @@ If I can help in any way, reach out to me at eesh.gupta@rutgers.edu
 When applying to summer research programs and scholarships, I have always found it useful to read applications of previous applicants regardless of whether they were successful or not. So here are my application materials for programs I have applied to over the past few years. Hope this helps!
 
 1. **Quantum Computing Internship IBM & Princeton** (QURIP):In 2021, my application to the QURIP program was accepted. The main components were the [statement of purpose](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/Statement_of_Purpose_QURIP.pdf) and obtaining the IBM Qiskit Advocate Badge. The latter requires somewhat knowledge of Qiskit and code contributions to IBM's quantum computing community. To contribute code, check out issues on Qiskit Terra github with the label "good first issue".
-2. **Barry Goldwater Scholarship**: In 2022, I recieved the Goldwater Scholarship. The main components were the [research essay](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/2022_Research_Essay_Goldwater.pdf), the [short answer questions](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/Short_Answer_Questions_Goldwater.pdf) and the [research statements](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/Research_Statements_Goldwater.pdf). Please apply even if you don't have publications! I found reading application materials of Goldwater Scholars Brandon Barker and Nishanth Kumar really helpful (both freely available on the web). 
+2. **Barry Goldwater Scholarship**: In 2022, I recieved the Goldwater Scholarship. The main components were the [research essay](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/2022_Research_Essay_Goldwater.pdf), the [short answer questions](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/Short_Answer_Questions_Goldwater.pdf) and the [research statements](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/Research_Statements_Goldwater.pdf). Please apply even if you don't have publications! I found reading application materials of Goldwater Scholars Brandon Barker and Nishanth Kumar really helpful (both freely available on the web and Brandon personally went over my essay. Thanks Brandon!). 
 
 If you are applying to these programs and have questions/want some essay to be looked over, don't hesitate to reach out and I will try my best to get back to you.
 
 
 ## AMAZING People I've come across 
-_as of October, 2021_
+_as of April, 2022_
 * **Diane Frey**: Invested in bettering herself as well as her students, Ms. Frey teaches AP English Language and Composition at Edison High School, NJ.
 * **Cal Newport**: His [ideas](https://www.calnewport.com/blog/) on student life and workplace productivity are transformational. Cal is a Distinguished Professor of Computer Science at Georgetown University. 
 * **Stephen Schnetzer**: Providing me with ample resources and opportunities to grow as a researcher, I am indebted to him. Professor Schnetzer is a Professor of Physics at Rutgers University.  
@@ -35,6 +35,11 @@ _as of October, 2021_
 * **Alexey Galda**: I've learned a lot from his methodical approach to research. Alexey is a Principal Scientist at Menten AI.
 * **David Vanderbilt**: Focused on imparting his great intuitive powers on quantum mechanics to his students, Professor Vanderbilt is a Board of Governors Professor of Physics at Rutgers University.
 * **Eric Allender**: His lecturing powers on complexity theory are just on another level. Professor Allender is a Distinguished Profesor of Computer Science at Rutgers University.
-* **Andrew Wan**: Eager to learn and make original contributions, Andrew is a senior at Montgomery High School, NJ.
+* **Andrew Wan**: Eager to learn and make original contributions, Andrew is a senior at Montgomery High School, NJ._
+* **Srivatsan Chakram**: A great mentor and a person with so many skills, Vatsan is an Assistant Professor of Physics at Rutgers University. 
+* **Premi Chandra**: She's too good at physics and life! One of my best physics teachers, Premi is a Professor of Physics at Rutgers University. 
+* **Plamen Kamenov and Thomas DiNapoli**: They have helped me out a lot in learning about superconducting qubits. Plamen and Tom are graduate students at Rutgers University. 
+* **Weida Wu**: His mastery over mechanics is astounding. I love his lectures! Weida is a Professor of Physics at Rutgers University. 
+* **Andrew Mastbaum**: Nerding out on electronics, a Sheldon Cooper yet an experimentalist, Andrew is an Assistant Professor of Physics at Rutgers University.
 
 _I am sure I have missed a lot of people!_
