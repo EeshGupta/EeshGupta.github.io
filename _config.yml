@@ -3,9 +3,7 @@ theme: jekyll-theme-minimal
 title: Eesh Gupta
 description: Undergraduate Student in Physics at Rutgers University
 
-cv_link: https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/CVMay14.pdf
-email: eesh.gupta@rutgers.edu
-logo: /images/eesh.jpg
+email: eag4013@gmail.com
 show_downloads: "false"
 # plugins: - jekyll-sitemap
 #google_analytics: [Your Google Analytics tracking ID]
