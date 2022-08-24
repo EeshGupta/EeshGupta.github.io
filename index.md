@@ -1,5 +1,5 @@
 # Hello 
-My professional profile is linked [here](https://www.linkedin.com/in/eeshgupta/).
+My professional profile is linked [here](https://www.linkedin.com/in/eeshgupta/). This webpage contains my scholarship/internship essays and a few related tips. For more detailed posts on academia and Physics, please visit [Mallory Ladd](http://www.malloryladd.com/) and [Alex Lang](https://www.alexhunterlang.com/home).
 
 ## Resources
 When applying to summer research programs and scholarships, I have always found it useful to read applications of previous applicants regardless of whether they were successful or not. So here are my application materials for programs I have applied to over the past few years. Hope this helps!
