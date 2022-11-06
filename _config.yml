@@ -1,28 +1,9 @@
-theme: jekyll-theme-simplex
+theme: jekyll-theme-minimal
 
-logo_img: #/assets/img/icons/golasblog_logo.svg #Absolute path to the logo. If not specified, the title will be displayed instead.
-copyright: © Eesh Gupta 2022 #Your copyright.
-
-collections:
-    category:
-        output: true
-    authors:
-        output: false
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: category
-    values:
-      layout: "category"
-
-#theme: jekull minimal theme
-# title: Eesh Gupta
-# description: Undergraduate Student in Physics at Rutgers University
-# cv_link: https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/CVSep22_1.pdf
-# email: eesh.gupta@rutgers.edu
-# email: eag4013@gmail.com
-# show_downloads: "false"
-# # plugins: - jekyll-sitemap
-# #google_analytics: [Your Google Analytics tracking ID]
+title: Eesh Gupta
+description: Undergraduate Student in Physics at Rutgers University
+cv_link: https://github.com/EeshGupta/eeshgupta.github.io/blob/main/documents/CVSep22_1.pdf
+email: eag4013@gmail.com
+show_downloads: "false"
+# plugins: - jekyll-sitemap
+#google_analytics: [Your Google Analytics tracking ID]
