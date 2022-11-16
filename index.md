@@ -1,7 +1,7 @@
 # Hello!
-I'm an undergraduate physics major at Rutgers University. My professional profile is linked [here](https://www.linkedin.com/in/eeshgupta/). This webpage contains my scholarship/internship essays and a few related tips. For more detailed posts on academia and Physics, please visit [Mallory Ladd](http://www.malloryladd.com/) and [Alex Lang](https://www.alexhunterlang.com/home).
+I'm an undergraduate physics major at Rutgers University. My research goal is to help develop fault tolerant quantum computers which can outperform modern supercomputers in simulation of many body phenomena. To this end, I am specifically interested in  improving both the design and the control of superconducting quantum systems. My professional profile is linked [here](https://www.linkedin.com/in/eeshgupta/). 
 
-Table of Contents: 
+# Table of Contents: 
 
 
 1. [Summary of my Research Exepriences](./pages/research.html)
