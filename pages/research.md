@@ -26,9 +26,9 @@ processors that are also more immune to ancilla errors.
 
 
 2. **Accelerating the Quantum Approximate Optimization Algorithm**
-
-[Research Paper](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/2021_Research_Essay_SULI%20(2).pdf)
-[APS Presentation]
+[Goldwater Essay](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/2021_Research_Essay_SULI%20(2).pdf),
+[Research Paper](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/2021_Research_Essay_SULI%20(2).pdf),
+[APS March Meeting 2022 Presentation](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/aps%20final%20recording.mp4)
 
 Quantum computers employ intrinsic properties of quantum mechanics to solve problems deemed intractable by our current 
 classical computers. While general purpose quantum computers are more than a decade away, there is still a great interest
@@ -51,6 +51,7 @@ imaginable.
 
 [Poster](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/eeshguptaposter%20(1).pdf),
 [Paper](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/Zero%20Noise%20Extrapolation%20Paper%20FALL%202020%20(4).pdf)
+
 Some of the most promising near-term applications of quantum computers lie in solving classically intractable problems
 in chemistry, leading to potential breakthroughs in disease prevention. However, quantum computers of today are both
 highly susceptible to errors and limited by the number of qubits to correct them. For the near term, scientists are 
