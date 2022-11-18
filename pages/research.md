@@ -2,6 +2,7 @@
 _Most Recent First_
 
 1. **Experimental Control of Superconducting Qubits**
+2. 
 One promising implementation of quantum computers is a high-coherence 3D multimode cavity coupled to a
 nonlinear circuit such as the transmon. A key limitation of this architecture are the ancillary transmon
 qubits which limit the fidelity of gate operations and lower cavity coherence via the reverse Purcell effect.
@@ -23,6 +24,7 @@ processors that are also more immune to ancilla errors.
 
 
 2. **Accelerating the Quantum Approximate Optimization Algorithm**
+3. 
 Quantum computers employ intrinsic properties of quantum mechanics to solve problems deemed intractable by our current 
 classical computers. While general purpose quantum computers are more than a decade away, there is still a great interest
 in solving “toy” problems on today’s noisy quantum devices to measure their capabilities. In particular, computer 
@@ -41,6 +43,7 @@ Office of Science’s mission for Quantum Information Science in advancing quant
 imaginable.
 
 3. **Quantum Error Mitigation**
+
 Some of the most promising near-term applications of quantum computers lie in solving classically intractable problems
 in chemistry, leading to potential breakthroughs in disease prevention. However, quantum computers of today are both
 highly susceptible to errors and limited by the number of qubits to correct them. For the near term, scientists are 
