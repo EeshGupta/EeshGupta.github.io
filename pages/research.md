@@ -28,7 +28,7 @@ processors that are also more immune to ancilla errors.
 ## Accelerating the Quantum Approximate Optimization Algorithm
 
 [Goldwater Essay](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/2021_Research_Essay_SULI%20(2).pdf),
-[Research Paper](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/2021_Research_Essay_SULI%20(2).pdf),
+[Research Paper](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/SULI_Research_Report__Copy2%20(4).pdf),
 [APS March Meeting 2022 Presentation](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/aps%20final%20recording.mp4)
 
 Quantum computers employ intrinsic properties of quantum mechanics to solve problems deemed intractable by our current 
