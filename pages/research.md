@@ -1,7 +1,7 @@
 # Research Experiences
 _Most Recent First_
 
-1. **Experimental Control of Superconducting Qubits**
+## Experimental Control of Superconducting Qubits
 
 [Poster](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/Poster_for_Rutgers_CMT_Conference%20(12).pdf)
 
@@ -25,7 +25,7 @@ Rabi frequency. Our work presents a pathway for potentially implementing cross-t
 processors that are also more immune to ancilla errors. 
 
 
-2. **Accelerating the Quantum Approximate Optimization Algorithm**
+## Accelerating the Quantum Approximate Optimization Algorithm
 
 [Goldwater Essay](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/2021_Research_Essay_SULI%20(2).pdf),
 [Research Paper](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/2021_Research_Essay_SULI%20(2).pdf),
@@ -48,7 +48,7 @@ and well as learned the rigors of drafting a good research paper. These efforts 
 Office of Science’s mission for Quantum Information Science in advancing quantum algorithms to do what was previously
 imaginable.
 
-3. **Quantum Error Mitigation**
+## Quantum Error Mitigation
 
 [Poster](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/eeshguptaposter%20(1).pdf),
 [Paper](https://github.com/EeshGupta/eeshgupta.github.io/blob/main/pages/research_works/Zero%20Noise%20Extrapolation%20Paper%20FALL%202020%20(4).pdf)
