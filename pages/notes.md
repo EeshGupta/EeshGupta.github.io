@@ -1,7 +1,12 @@
-# Notes
-| Class      | Notes/Projects | 
+# Classes
+
+### Solid State Physics
 | :---        |    :----:   | 
-| Solid State Physics      | 
-1. Notes-Lattice, Polyacetylene, Solitons, Einstein-Debeye, Sommerfield Model
-2. sjsj       | 
-| Philosophy   | Text        | 
+| Notes | Lattice, Polyacetylene, Solitons, Einstein-Debeye, Sommerfield Model| 
+| Notes  | Transport: Semiclassical, Boltzmann, Drude, Quantum Hall Effect        |
+
+
+### Quantum Information and Quantum Optics with Superconducting Qubits
+| Type     | Content | 
+| :---        |    :----:   | 
+| Final Project  | Transport: Semiclassical, Boltzmann, Drude, Quantum Hall Effect        |
