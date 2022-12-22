@@ -9,6 +9,7 @@ I'm an undergraduate physics major at Rutgers University. My research goal is to
 
 1. [Summary of my Research Exepriences](./pages/research.html)
 2. [Resources for Scholarships/Fellowships](./pages/resources.html)
+3. [Class Notes/Projects](./pages/notes.html)
 
 # Publications
 
