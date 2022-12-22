@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Classes
 
 ### Solid State Physics 
