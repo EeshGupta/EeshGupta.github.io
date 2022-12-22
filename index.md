@@ -10,7 +10,7 @@ I'm an undergraduate physics major at Rutgers University. My research goal is to
 1. [Summary of my Research Exepriences](./pages/research.html)
 2. [Resources for Scholarships/Fellowships](./pages/resources.html)
 3. [Class Notes/Projects](./pages/notes.html)
-
+h
 # Publications
 
 1. A. Galda, E. Gupta, J. Fallas, X. Liu, D. Lykov, Y. Alexeev, I. Safro. Similarity-Based Parameter Transferability in Quantum Approximate Optimization Algorithm. Under review at _IEEE: Transactions on Quantum Engineering_. (2022)
