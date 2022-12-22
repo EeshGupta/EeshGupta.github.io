@@ -1,5 +1,5 @@
 # Notes
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Class      | Notes/Projects | 
+| :---        |    :----:   | 
+| Header      | Title       | 
+| Paragraph   | Text        | 
