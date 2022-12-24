@@ -18,6 +18,8 @@ Prof. Srivatsan Chakram
 |      | | 
 | :---        |    :----:   | 
 | [Final Project](https://docs.google.com/presentation/d/1V7bebX6_DVzLBzptQ_aMPwYgg828f-BU/edit?usp=share_link&ouid=111558376192555559689&rtpof=true&sd=true)  | Bifluxon, Noise Protection in Multimode Circuits |
+|[Lec. Notes](https://drive.google.com/file/d/1m0B07n6QH0moiBO6rRLwOHOH9mCejH1q/view?usp=share_link)| Transmon, Fluxonium|
+|[Lec. Notes](https://drive.google.com/file/d/1HLvOMpPZJm9EhOlD5aYgqOucRUXmynWC/view?usp=share_link)| Master Equation|
 
 ### Introduction to Quantum Computing 
 Prof. Stephen Schnetzer
