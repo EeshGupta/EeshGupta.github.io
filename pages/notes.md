@@ -15,7 +15,7 @@ Prof. Natan Andrei
 ### Quantum Information and Quantum Optics with Superconducting Qubits 
 Prof. Srivatsan Chakram
 
-| Type     | Content | 
+|      | | 
 | :---        |    :----:   | 
 | [Final Project](https://docs.google.com/presentation/d/1V7bebX6_DVzLBzptQ_aMPwYgg828f-BU/edit?usp=share_link&ouid=111558376192555559689&rtpof=true&sd=true)  | Bifluxon, Noise Protection in Multimode Circuits |
 
@@ -23,12 +23,12 @@ Prof. Srivatsan Chakram
 Prof. Stephen Schnetzer
 
 
-| Type     | Content | 
+|      |   | 
 | :---        |    :----:   | 
 | [Final Project](https://drive.google.com/file/d/1uZhSU7YO26EixLf81HEM0qR5Dh-Lzui6/view?usp=share_link)  | QAOA Algorithm |
 
 ### GRE Physics
 
-| Type     | Content | 
+|      |  | 
 | :---        |    :----:   | 
 | [Study Guide](https://drive.google.com/file/d/1b8opeaThUm46z9azmbVY7nhtOQo4e7cS/view?usp=share_link)  | Based on GRE tests (1991, 93, 96, 2001, 08, 13) |
