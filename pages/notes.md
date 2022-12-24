@@ -31,4 +31,4 @@ Prof. Stephen Schnetzer
 
 | Type     | Content | 
 | :---        |    :----:   | 
-| [Study Guide](https://drive.google.com/file/d/1b8opeaThUm46z9azmbVY7nhtOQo4e7cS/view?usp=share_link)  | Notes based on GRE tests (1991, 93, 96, 2001, 08, 13 |
+| [Study Guide](https://drive.google.com/file/d/1b8opeaThUm46z9azmbVY7nhtOQo4e7cS/view?usp=share_link)  | Based on GRE tests (1991, 93, 96, 2001, 08, 13) |
