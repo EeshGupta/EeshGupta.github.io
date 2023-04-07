@@ -17,9 +17,6 @@ _If I can be of any help, reach out to me at eesh.gupta.pro@gmail.com !_
 2. [Resources for Scholarships/Fellowships](./pages/resources.html)
 3. [Class Notes/Projects](./pages/notes.html)
 
-<!-- # Publications
-
-1. A. Galda, E. Gupta, J. Fallas, X. Liu, D. Lykov, Y. Alexeev, I. Safro. Similarity-Based Parameter Transferability in Quantum Approximate Optimization Algorithm. Under review at _IEEE: Transactions on Quantum Engineering_. (2022) -->
 
 
  -->
