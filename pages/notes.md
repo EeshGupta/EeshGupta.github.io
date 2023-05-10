@@ -3,7 +3,17 @@ layout: default
 ---
 # Classes
 
-### Solid State Physics 
+### Solid State Physics 2
+Prof. Karin Rabe
+
+| Type     | Content | 
+| :---        |    :----:   | 
+| [Notes](https://drive.google.com/file/d/1bNWKUugDcHSWL1R8pojJ_nVML05eVihd/view?usp=share_link) |**Conductivity**<br> 1. Maxwell Equations and Boundary Conditions <br> 2. Deriving Ohm’s law from the most general relationship between current and electric field <br> 3. Discrete to Continuous Fourier transform <br> 4. Frequency dependence of dielectric function <br>5. Boltzmann Equation and static conductivity <br> 6. Crystal Momentum<br>7. Absorption coefficient<br>8. Derivation of Hamiltonian for Charged particle in Mag. field<br>9. Slater Determinants| 
+| [Notes](https://drive.google.com/file/d/1IMf5qmj3WIQpiyOTGh5mVFNmZXcWeiM8/view?usp=share_link) |**Semiconductors** <br> Gaussian Integrals Review <br> Semiconductors: Carrier Distribution and Thermal Equilibrium <br> Density of States: 1d, 2d, 3d <br> Energy levels of 2d electron gas in mag field <br> ‘’’’’’3d’’’’ <br> Classical Hall effect <br> Addition of Angular Momenta <br>Hund’s rule |
+| [Notes](https://drive.google.com/file/d/1kb3niss-DMalTkkgNo6vaTlXHqjc3bOL/view?usp=share_link) |**Superconductivity** <br> BCS wavefunction, microscopic theory <br> Complete Instability of Fermi Surface <br> Variational Minimization of BCS wavefunction <br> Ginzberg Landau Theory <br> Bose Einstein Condensate <br> Boogie Boogie Transformation|
+
+
+### Solid State Physics 1
 Prof. Natan Andrei
 
 | Type     | Content | 
